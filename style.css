@@ -137,6 +137,7 @@ main{
     background-color: rgb(255, 255, 255);
     padding-top:  4.6rem;
     max-width: 1200px;
+    margin: auto;
 }
 .contenedor_cancion{
     width: 100%;
